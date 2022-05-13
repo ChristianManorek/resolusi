@@ -1,0 +1,5 @@
+rencana konten
+
+1. video mengenai js
+2. php framework
+3. interview
