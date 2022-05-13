@@ -1,0 +1,2 @@
+# resolusi
+Rencana saya kedapannya
